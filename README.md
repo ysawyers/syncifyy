@@ -1,7 +1,7 @@
 # Youtube-Sync
 
 ## Project Summary - 
-This web app enables you to create an account and start a new lobby. Users can chat and watch youtube videos in real-time!
+This web app enables you to create an account and start a new lobby. Users can chat and watch youtube videos in real-time
 
 ## Screenshots - 
 ![Lobbies](https://i.imgur.com/j38OOY0.png)
