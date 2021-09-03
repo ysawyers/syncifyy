@@ -1,7 +1,7 @@
 # Youtube-Sync
 
 ## Project Summary - 
-This web app enables you to create an account and start a new lobby. Users can chat and watch youtube videos in real-time
+This web app allows you to watch videos in real-time with other users while chatting in a "Lobby". This was a really fun project to work on and it taught me a lot about websockets, using third-party API's, and developing REST API's. 
 
 ## Screenshots - 
 ![Register](https://i.imgur.com/wJMLMkF.png)
