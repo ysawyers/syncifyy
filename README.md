@@ -1,9 +1,9 @@
-# Youtube-Sync
+# Description 
+This web app allows you to watch youtube videos in real-time with other users. 
 
-## Project Summary - 
-This web app allows you to watch videos in real-time with other users while chatting in a "Lobby". This was a really fun project to work on and it taught me a lot about websockets, using third-party API's, and developing REST API's. 
+PS: Inspired by Joma Tech's project using socket.io with the youtube API.
 
-## Screenshots - 
+## Screenshots 
 ![Register](https://i.imgur.com/wJMLMkF.png)
 ------
 ![Login](https://i.imgur.com/TWKfidx.png)
@@ -14,9 +14,9 @@ This web app allows you to watch videos in real-time with other users while chat
 ------
 ![Fullscreen](https://i.imgur.com/DgSGTqB.png)
 
-## Tech / Frameworks - 
+## Tech / Frameworks 
 
-### Built with - 
+### Built with 
 - mySQL
 - Node / Express
 - Socket.io
